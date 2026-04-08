@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Logs and Media
+*.log
+*.mp4
+*.png
+*.jpg
+*.m4a
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
